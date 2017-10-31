@@ -1,0 +1,46 @@
+.cuadro1{
+width: 300px;
+height: 300px;
+background: red;
+position: relative;
+bottom: ;
+left:;
+}
+.cuadro11{
+  width: 200px;
+  height: 200px;
+  background: pink;
+  position: relative;
+  bottom:-37px;
+  left: 50px;
+}
+  .cuadro12{
+    width: 70px;
+    height: 70px;
+    background: yellow;
+    position: relative;
+    bottom: 163px;
+    left:53px;
+  }
+.cuadro2{
+  width: 300px;
+  height: 300px;
+  background: blue;
+  position: relative;
+}
+.cuadro21{
+  width: 70px;
+  height: 70px;
+  background: black;
+  position: relative;
+  bottom: 297px;
+  left:0px;
+}
+.cuadro22{
+  width: 200px;
+  height: 200px;
+  background: green;
+  position: relative;
+  bottom: 298px;
+  left:70px;
+}
